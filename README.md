@@ -1,6 +1,6 @@
-# GraphQL Chat
+### GraphQL Chat
 
-- Built application in which user can chat with friends with React, GraphQL, Node.js, Express.js, MySQL.
+- The GraphQL Chat Application is a web platform that enables users to engage in real-time conversations with friends.
 - It uses Apollo Server with Express, and GraphQL-Request and Apollo Client as GraphQL clients. The application is used to explain queries, mutations, custom object types, authentication, etc.
 - It shows how to use subscriptions with Apollo Server for Express, Apollo Client, and GraphQL-WS.
 
